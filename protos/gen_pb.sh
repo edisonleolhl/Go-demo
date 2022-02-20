@@ -1,0 +1,1 @@
+protoc helloworld.proto --go-grpc_out=. --go_out=.
