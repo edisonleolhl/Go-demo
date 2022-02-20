@@ -2,7 +2,7 @@
 
 ## Introduction
 
-go-demo是个人学习Google开源的gRPC与protobuf的Demo，用Go语言编写
+go-demo is just for learning how to constructing go project, along with grpc and protobuf.
 
 ## Walk Through
 
